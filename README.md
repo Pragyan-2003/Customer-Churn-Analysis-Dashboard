@@ -98,7 +98,7 @@ AVERAGE(Customers[Tenure])
 ---
 
 ## Dashboard Preview
-(Add dashboard screenshot here)
+
 
 ---
 
