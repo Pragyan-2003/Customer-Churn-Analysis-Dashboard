@@ -98,14 +98,9 @@ AVERAGE(Customers[Tenure])
 ---
 
 ## Dashboard Preview
-
+<a href="https://github.com/Pragyan-2003/Customer-Churn-Analysis-Dashboard/blob/main/Customer_Churn_Dashboard_Screenshot.png">View Dashboard</a>
 
 ---
 
 ## Conclusion
 This dashboard provides insights into customer behavior and churn trends, helping businesses improve customer retention and reduce churn effectively.
-
----
-
-## Author
-### Pragyan Parimita Behera
