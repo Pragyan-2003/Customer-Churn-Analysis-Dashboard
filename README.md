@@ -6,6 +6,17 @@ The dashboard helps identify at-risk customers and supports data-driven retentio
 
 ---
 
+## Project Objective
+- Analyze telecom customer churn patterns
+- Identify factors affecting customer retention
+- Study customer demographics and usage behavior
+- Monitor satisfaction scores and complaints
+- Track churn rate and customer tenure
+- Provide insights through interactive Microsoft Power BI dashboard visuals
+- Support data-driven customer retention strategies
+
+---
+
 ## Tools & Technologies
 - Power BI
 - Power Query
