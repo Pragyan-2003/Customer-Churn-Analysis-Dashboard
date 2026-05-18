@@ -75,16 +75,6 @@ AVERAGE(Customers[Tenure])
 
 ---
 
-### Dashboard Features
-- Interactive filters and slicers
-- Region-wise analysis
-- Customer segmentation
-- Dynamic KPI cards
-- Drill-down visualizations
-- Trend analysis charts
-
----
-
 ## Analytical Questions Solved
 - What is the overall churn rate?
 - Which age groups have the highest churn?
