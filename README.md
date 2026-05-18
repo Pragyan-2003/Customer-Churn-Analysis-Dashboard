@@ -107,6 +107,8 @@ The dashboard enables telecom companies to:
 - Enhance retention campaigns
 - Make data-driven business decisions
 
+---
+
 ## Key Insights
 - Customers with lower satisfaction scores showed higher churn.
 - High complaint counts were linked to increased churn.
