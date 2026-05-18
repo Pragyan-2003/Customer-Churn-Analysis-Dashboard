@@ -75,6 +75,16 @@ AVERAGE(Customers[Tenure])
 
 ---
 
+### Dashboard Features
+- Interactive filters and slicers
+- Region-wise analysis
+- Customer segmentation
+- Dynamic KPI cards
+- Drill-down visualizations
+- Trend analysis charts
+
+---
+
 ## Analytical Questions Solved
 - What is the overall churn rate?
 - Which age groups have the highest churn?
@@ -88,6 +98,14 @@ AVERAGE(Customers[Tenure])
 - How does churn vary by tenure?
 
 ---
+
+## Business Impact
+The dashboard enables telecom companies to:
+- Identify customers likely to churn
+- Improve customer satisfaction
+- Reduce revenue loss
+- Enhance retention campaigns
+- Make data-driven business decisions
 
 ## Key Insights
 - Customers with lower satisfaction scores showed higher churn.
